@@ -5,4 +5,4 @@ greeting = "Hello World"
 
 dict = {"key" => "value", "1" => "2"}
 
-puts "key"
+puts dict["hey"]
