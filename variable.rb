@@ -9,4 +9,4 @@ puts dict["key"]
 
 new_array = [1,2,3,4,5]
 
-puts new_array << 6
+puts new_array << "Hello"
