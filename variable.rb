@@ -9,4 +9,5 @@ dict = {"key" => "value", "1" => "2"}
 
 new_array = [1,2,3,4,5]
 
-puts new_array.pop
+puts new_array.shift
+new_array.inspect
