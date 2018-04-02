@@ -3,6 +3,6 @@
 
 greeting = "Hello World"
 
-{"key" => "value", "1" => "2"}
+dict = {"key" => "value", "1" => "2"}
 
 puts "key"
