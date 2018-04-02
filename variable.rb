@@ -6,3 +6,5 @@ greeting = "Hello World"
 dict = {"key" => "value", "1" => "2"}
 
 puts dict["key"]
+
+new_array = [1,2,3,4,5]
