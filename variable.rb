@@ -9,5 +9,5 @@ dict = {"key" => "value", "1" => "2"}
 
 new_array = [1,2,3,4,5]
 
-puts new_array.shift
+puts new_array.include?(6)
 puts new_array
